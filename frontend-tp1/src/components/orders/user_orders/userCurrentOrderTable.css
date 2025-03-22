@@ -1,0 +1,25 @@
+.user-order-table-wrapper{
+    display: flex;
+    width: 50%;
+    margin: 20px;
+    
+}
+
+.nav-icon{
+    padding: 5px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+.action-button{
+    background: none;     
+    border: none;
+}
+
+.action-button:hover{
+    cursor: pointer;
+}
+
+.button-create-order-container{
+    margin: 30px;
+    align-self: center;
+}

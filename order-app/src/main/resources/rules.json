@@ -1,0 +1,13 @@
+[
+    {
+        "regla": "<=_int",
+        "atributo_afectado": "peso",
+        "valor": 10,
+        "mensaje_error": "El peso total de los productos debe ser menos de 10 kg."
+    },
+    {
+        "regla": "max_products",
+        "valor": 20,
+        "mensaje_error": "Deben haber como mucho 20 productos en el pedido"
+    }   
+]
